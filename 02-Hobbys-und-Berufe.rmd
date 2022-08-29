@@ -1,0 +1,103 @@
+Hobbys und Berufe {#K2A1}
+=
+
+Redemittel
+--
+
+### über Hobbys sprechen {-}
+
+
+### sich verabreden {-}
+
+
+### über Arbeit und Berufe sprechen {-}
+
+
+### Zahlen ab 20 {-}
+
+---
+
+Grammatik
+--
+
+### Verben und Personalpronomen {-}
+
+```{r, include=FALSE}
+VundP<-c("ich", "du", "er/sie/es", "wir", "ihr", "sie/Sie")
+sein<-c("<strong>bin</strong>", 
+        "<strong>bist</strong>", 
+        "<strong>ist</strong>", 
+        "<strong>sind</strong>",
+        "<strong>seid</strong>",
+        "<strong>sind</strong>")
+haben<-c("hab<strong>e</strong>", 
+         "<strong>hast</strong>", 
+         "<strong>hat</strong>", 
+         "hab<strong>en</strong>", 
+         "hab<strong>t</strong>", 
+         "hab<strong>en</strong>")
+arbeiten<-c("arbeit<strong>e</strong>", 
+            "arbeit<strong>e</strong><strong>st</strong>",
+            "arbeit<strong>e</strong><strong>t</strong>", 
+            "arbeit<strong>en</strong>", 
+            "arbeit<strong>e</strong><strong>t</strong>", 
+            "arbeit<strong>en</strong>")
+lesen<-c("les<strong>e</strong>", 
+         "l<strong>ie</strong><strong>st</strong>", 
+         "l<strong>ie</strong><strong>st</strong>", 
+         "les<strong>en</strong>", 
+         "les<strong>t</strong>", 
+         "les<strong>en</strong>")
+spielen<-c("spiel<strong>e</strong>", 
+            "spiel<strong>st</strong>",
+            "spiel<strong>t</strong>", 
+            "spiel<strong>en</strong>", 
+            "spiel<strong>t</strong>", 
+            "spiel<strong>en</strong>")
+Tabelle4<-data.frame(VundP, sein, haben, arbeiten, lesen, spielen)
+Tabelle4
+```
+
+```{r, echo=FALSE}
+knitr::kable(Tabelle4, col.name = c("Personalpronomen", "sein", "haben", "arbeiten", "lesen", "spielen"))
+```
+
+### Ja-/Nein Frage {-}
+
+**Gehen** wir ins Kino?<br>&nbsp;&nbsp;&nbsp;&nbsp;-Ja. / Nein.
+
+### Artikel {-}
+
+maskulin: **der** Fußball
+
+neutrum: **das** Hobby
+
+feminin: **die** Stadt
+
+Plural: **die** Bücher
+
+### Plural der Substantive {-}
+
+**(¨)Ø**<br>
+der Kilometer -> die Kilometer
+
+**-(e)n**<br>
+die Stunde -> die Stunde**n**<br>
+der Mensch -> die Mensch**en**<br>
+
+**(¨)e**<br>
+der Tag -> die Tag**e**<br>
+der Artz -> die **Ä**rzt**e**<br>
+
+**-(¨)er**<br>
+das Buch -> die B**ü**ch**er**<br>
+
+**-s**<br>
+das Auto -> die Auto**s**
+
+---
+
+Wortschatz
+--
+
+

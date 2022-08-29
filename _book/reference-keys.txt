@@ -2,3 +2,7 @@ K1A1
 redemittel
 grammatik
 wortschatz
+K2A1
+redemittel-1
+grammatik-1
+wortschatz-1

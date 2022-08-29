@@ -1,4 +1,4 @@
-Guten Tag! {#K1A1}
+Moin! {#K1A1}
 ==
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -156,56 +156,54 @@ wohnen
 
 ### Zahlen {-}
 
-null
+0 = null
 
-eins
+1 = eins
 
-zwei
+2 = zwei
 
-drei
+3 = drei
 
-vier
+4 = vier
 
-fünf
+5 = fünf
 
-sechs
+6 = sechs
 
-sieben
+7 = sieben
 
-acht
+8 = acht
 
-neun
+9 = neun
 
-zehn
+10 = zehn
 
-elf
+11 = elf
 
-zwölf
+12 = zwölf
 
-dreizehn
+13 = dreizehn
 
-vierzehn
+14 = vierzehn
 
-fünfzehn
+15 = fünfzehn
 
-sechzehn
+16 = sechzehn
 
-siebzehn
+17 = siebzehn
 
-achtzehn
+18 = achtzehn
 
-neunzehn
+19 = neunzehn
 
-zwanzig
+20 = zwanzig
 
 ### Andere wichtige Wörter und Wendungen {-}
 
-Hallo.
+Entschuldigung, noch einmal bitte.
 
-Entschuldigung.
+Bitte ein bisschen langsamer.
 
-Ich verstehe nicht.
+Ich verstehe das nicht.
 
-Buchstabieren, bitte.
-
-Bitte.
+Bitte buchstabieren Sie.
