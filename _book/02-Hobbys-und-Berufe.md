@@ -150,4 +150,234 @@ das Auto -> die Auto**s**
 Wortschatz
 --
 
+### Personen
 
+die Frau, -en
+
+der Freund, -e
+
+die Freundin, -en
+
+der Herr, -en
+
+der Kollege. -n
+
+die Kollegin, -en
+
+die Leute (Plural)
+
+der Mensch, -en
+
+der Partner, -
+
+die Partnerin, -en
+
+die Person, -en
+
+### Hobbys
+
+das Buch, Bücher
+
+das Foto, -s
+
+die Freizeit
+
+das Hobby, -s
+
+der Lieblingsfilm, -e
+
+die Musik
+
+die Lieblingsmusik
+
+fotografieren
+
+chatten
+
+kochen
+
+lesen
+
+reisen
+
+schwimmen
+
+singen
+
+spielen
+
+studieren
+
+tanzen
+
+gern / gerne
+
+sehr gern
+
+Fußball spielen
+
+Musik hören
+
+nach Paris reisen
+
+### Freizeit
+
+das Büro, -s
+
+das Café, -s
+
+das Fußballstadion, -stadien
+
+das Kino, -s
+
+das Museum, Museen
+
+das Restaurant, -s
+
+das Schwimmbad, -bäder
+
+das Theater
+
+freihaben
+
+Am Wochenende frei haben
+
+ins Café gehen
+
+### Berufe
+
+der Beruf, -e
+
+der Architekt, -en
+
+die Architekterin, -nen
+
+der Arzt, Ärzte
+
+die Ärztin, -nen
+
+die Firma, Firmen
+
+der Ingenieur, -e
+
+die Ingenieurin, -nen
+
+der Journalist, -en
+
+der Koch, Köche
+
+die Köchin, -nen
+
+der Professor, -en
+
+die Professorin, -nen
+
+der Student, -en
+
+die Studentin, -nen
+
+der Taxifahren, -
+
+die Taxifahrerin, -nen
+
+der Techniker, -
+
+die Technikerin, -nen
+
+bei VW arbeiten
+
+Technikerin bei VW sein
+
+### Informationen der Anderen
+
+das Formular, -e
+
+das Geburtsdatum, -daten
+
+der Geburtsort, -e
+
+der Geburtstag, -e
+
+der Name, -n
+
+der Nachname, -n
+
+der Vorname, -n
+
+der Wohnort, -e
+
+männlich
+
+weiblich
+
+ein Fomular ausfüllen
+
+Wann hast du Geburtstag?
+
+### die Wochentage
+
+das Jahr, -e
+
+der Kalender, -
+
+die Stunde, -en
+
+der Tag, -e
+
+der Termin. -e
+
+die Woche, -n
+
+das Wochenende, -n
+
+Montag
+
+Dienstag
+
+Mittwoch
+
+Donnerstag
+
+Freitag
+
+Samstag
+
+Sonntag
+
+### die Monatsnamen
+
+Januar
+
+Februar
+
+März
+
+April
+
+Mai
+
+Juni
+
+Juli
+
+August
+
+September
+
+Oktober
+
+November
+
+Dezember
+
+## Jahreszeiten
+
+die Jahreszeit, -en
+
+der Frühling
+
+der Sommer
+
+der Herbst
+
+der Winter

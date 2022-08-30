@@ -6,3 +6,11 @@ K2A1
 redemittel-1
 grammatik-1
 wortschatz-1
+personen
+hobbys
+freizeit
+berufe
+informationen-der-anderen
+die-wochentage
+die-monatsnamen
+jahreszeiten
