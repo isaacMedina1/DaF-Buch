@@ -150,7 +150,7 @@ das Auto -> die Auto**s**
 Wortschatz
 --
 
-### Personen
+### Personen {-}
 
 die Frau, -en
 
@@ -174,7 +174,7 @@ die Partnerin, -en
 
 die Person, -en
 
-### Hobbys
+### Hobbys {-}
 
 das Buch, Bücher
 
@@ -220,7 +220,7 @@ Musik hören
 
 nach Paris reisen
 
-### Freizeit
+### Freizeit {-}
 
 das Büro, -s
 
@@ -244,7 +244,7 @@ Am Wochenende frei haben
 
 ins Café gehen
 
-### Berufe
+### Berufe {-}
 
 der Beruf, -e
 
@@ -288,7 +288,7 @@ bei VW arbeiten
 
 Technikerin bei VW sein
 
-### Informationen der Anderen
+### Informationen der Anderen {-}
 
 das Formular, -e
 
@@ -314,7 +314,7 @@ ein Fomular ausfüllen
 
 Wann hast du Geburtstag?
 
-### die Wochentage
+### die Wochentage {-}
 
 das Jahr, -e
 
@@ -344,7 +344,7 @@ Samstag
 
 Sonntag
 
-### die Monatsnamen
+### die Monatsnamen {-}
 
 Januar
 
@@ -370,7 +370,7 @@ November
 
 Dezember
 
-## Jahreszeiten
+### Jahreszeiten {-}
 
 die Jahreszeit, -en
 
