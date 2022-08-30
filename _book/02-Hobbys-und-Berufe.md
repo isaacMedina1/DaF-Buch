@@ -12,14 +12,86 @@ Redemittel
 
 ### über Hobbys sprechen {-}
 
+Was machen Sie gern? / Was machst du gern?<br>&nbsp;&nbsp;&nbsp;&nbsp;Ich reise gern.
+
+Hören Sie gern Musik? / Hörst du gern Musik?<br>&nbsp;&nbsp;&nbsp;&nbsp;Ja, sehr gern. Und Sie? / Und du?
+
+Gehen Sie gern ins Kino? / Gehst du gern ins Kino?<br>&nbsp;&nbsp;&nbsp;&nbsp;Nicht so gern. Und Sie? / Und du?
+
+Lesen Sie gern? / Liest du gern?<br>&nbsp;&nbsp;&nbsp;&nbsp;Es geht so.
+
 
 ### sich verabreden {-}
 
+Gehen wir ins Kino?<br>&nbsp;&nbsp;&nbsp;&nbsp;Ja, gern.
+
+Wann gehen wir ins Kino?<br>&nbsp;&nbsp;&nbsp;&nbsp;Am Montag.
+
+Am Montag?<br>&nbsp;&nbsp;&nbsp;&nbsp;Nein, das geht leider nicht.
+
+Am Freitag?<br>&nbsp;&nbsp;&nbsp;&nbsp;Ja, super.
 
 ### über Arbeit und Berufe sprechen {-}
 
+Was sind Sie von Beruf? / Was bist du von Beruf?<br>&nbsp;&nbsp;&nbsp;&nbsp;Ich bin Student / Studentin / ...
+
+Wann arbeiten Sie? / Wann arbeitest du?<br>&nbsp;&nbsp;&nbsp;&nbsp;Ich arbeite am ...
+
+Wann haben Sie frei? / Wann hast du frei?<br>&nbsp;&nbsp;&nbsp;&nbsp;Ich habe am ... frei. / Ich arbeite am ... nicht.
 
 ### Zahlen ab 20 {-}
+
+21 = einundzwanzig
+
+22 = zweiundzwanzig
+
+23 = dreiundzwanzig
+
+24 = vierundzwanzig
+
+25 = fünfundzwanzig
+
+26 = sechsundzwanzig
+
+27 = siebenundzwanzig
+
+28 = achtundzwanzig
+
+29 = neunundzwanzig
+
+30 = dreißig
+
+40 = vierzig
+
+50 = fünfzig
+
+60 = sechzig
+
+70 = siebzig
+
+80 = achtzig
+
+90 = neunzig
+
+100 = (ein)hundert
+
+1 000 = (ein)tausend
+
+2 000 = zweitausend
+
+4 250 = viertausendzweihundertfünfzig
+
+10 000 = zehntausend
+
+49 500 = neunundvierzigtausendfünfhundert
+
+100 0000 = (ein)hunderttausend
+
+600 0000 = sechshunderttausend
+
+1 000 0000 = eine Million
+
+1 000 000 000 = eine Milliarde
 
 ---
 
