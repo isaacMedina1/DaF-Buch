@@ -1,0 +1,81 @@
+Gebäude und Wege {#K3A1}
+=
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+---
+
+Redemittel
+--
+
+### Frage zu Orten stellen und antworten {-}
+
+### Dinge erfragen {-}
+
+### nach dem Weg fragen und einen Weg beschreiben {-}
+
+---
+
+Grammatik
+--
+
+### Unbestimmter und bestimmter Artikel {-}
+
+maskulin
+feminin
+neutrum
+Plural
+
+Das ist **ein** Banhof.
+Das ist **ein** Hotel.
+Das ist **eine** Straße.
+
+Das ist **der** Bahnhof von Hamburg.
+**Das** Hotel heißt "Wagner".
+**Die** Straße heißt "Müllerstraße".
+**Die** Schiffe sind im Hafen.
+
+Das ist **kein** Bahnhof.
+Das ist **kein** Hotel.
+Das ist **keine** Straße.
+Das sind **keine** Schiffe.
+
+### Imperativ mit Sie {-}
+
+gehen: **Gehen** Sie links.
+fahren: **Fahren** Sie rechts.
+
+### Unregelmäßige Verben {-}
+
+```{r, include=FALSE}
+UV<-c("ich", "du", "er/sie/es", "wir", "ihr", "sie/Sie")
+fahren<-c("fahr<strong>e</strong>",
+        "f<strong>ä</strong>hr<strong>st</strong>",
+        "f<strong>ä</strong>hr<strong>t</strong>",
+        "fahr<strong>en</strong>",
+        "fahr<strong>t</strong>",
+        "fahr<strong>en</strong>")
+geben<-c("geb<strong>e</strong>",
+         "g<strong>i</strong>b<strong>st</strong>",
+         "g<strong>i</strong>b<strong>t</strong>",
+         "geb<strong>en</strong>",
+         "geb<strong>t</strong>",
+         "geb<strong>en</strong>")
+sprechen<-c("sprech<strong>e</strong>",
+            "spr<strong>i</strong>ch<strong>st</strong>",
+            "spr<strong>i</strong>ch<strong>t</strong>",
+            "sprech<strong>en</strong>",
+            "sprech<strong>t</strong>",
+            "sprech<strong>en</strong>")
+Tabelle6<-data.frame(UV, fahren, geben, sprechen)
+Tabelle6
+```
+
+```{r, echo=FALSE}
+knitr::kable(Tabelle6, col.name = c("Personalpronomen", "fahren", "geben", "sprechen"))
+```
+
+---
+
+Wortschatz
+--
