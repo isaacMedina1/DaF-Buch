@@ -8,9 +8,19 @@ Redemittel
 
 ### Frage zu Orten stellen und antworten {-}
 
+Was ist das?<br>&nbsp;&nbsp;&nbsp;&nbsp;Das ist die Kirche.
+
+Ist das der Hafen?<br>&nbsp;&nbsp;&nbsp;&nbsp;Ja. / Ja, das ist der Hamburger Hafen.
+
+Ist das ein Haus?<br>&nbsp;&nbsp;&nbsp;&nbsp;Nein, das ist ein Hotel.
+
 ### Dinge erfragen {-}
 
+Ist das ein Auto / Fahrrad / eine U-Bahn?<br>&nbsp;&nbsp;&nbsp;&nbsp;Ja, das ist ein ... / eine ...<br>&nbsp;&nbsp;&nbsp;&nbsp;Nein, das ist kein ... / keine ...
+
 ### nach dem Weg fragen und einen Weg beschreiben {-}
+
+Entschuldigung, ich habe eine Frage.<br>&nbsp;&nbsp;&nbsp;&nbsp;Ja, gern.<br>Wo ist ... ?<br>&nbsp;&nbsp;&nbsp;&nbsp;Das ist ganz einfach. Gehen Sie links / rechts / geradeaus und dann ... Da ist ...<br>Also hier links und dann ...?<br>&nbsp;&nbsp;&nbsp;&nbsp;Ja.<br>Vielen Dank.<br>&nbsp;&nbsp;&nbsp;&nbsp;Bitte, gern.
 
 ---
 
