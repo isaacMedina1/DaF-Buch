@@ -17,5 +17,4 @@ wortschatz-3
 K5A1
 redemittel-4
 grammatik-4
-zeitangaben-am-um-von-bis
 wortschatz-4

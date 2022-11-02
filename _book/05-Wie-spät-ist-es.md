@@ -45,8 +45,7 @@ Geht es am ... um ... Uhr?<br>&nbsp;&nbsp;&nbsp;&nbsp;Ja, da kann ich. / Nein, d
 Grammatik
 --
 
-
-### Zeitangaben am, um, von ... bis
+### Zeitangaben am, um, von ... bis {-}
 
 
 
