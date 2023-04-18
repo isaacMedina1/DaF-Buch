@@ -93,4 +93,189 @@ ich -> _mas.:_ **mein** Vater, _fem.:_ **meine** Mutter, _neutr.:_ **mein** Kind
 Wortschatz
 --
 
-###  {-}
+
+###  Alltag {-}
+
+der Computer, -
+
+die Schule, -n
+
+der Sport
+
+das Training, -s
+
+duschen
+
+joggen
+
+telefonieren
+
+treffen
+
+Freunde treffen
+
+schlafen
+
+lange schlafen
+
+spazieren gehen
+
+am Computer arbeiten
+
+in die Kantine gehen
+
+nach Hause gehen
+
+Nachrichten lesen
+
+Zeitung lesen
+
+###  Uhrzeit {-}
+
+Wie spät ist es?
+
+Wie viel Uhr ist es?
+
+**inoffiziell**
+
+Es ist vier Uhr.
+
+Es ist kurz / Viertel / zwanzig nach vier.
+
+Es ist halb fünf.
+
+Es ist zwanzig / Viertel / kurz vor fünf.
+
+**offiziell**
+
+Es ist sechzehn Uhr.
+
+Es ist sechzehn Uhr fünf / fünfzehn / zwanzig.
+
+Es ist sechzehn Uhr dreißig.
+
+Es ist sechzehn Uhr vierzig / fünfundvierzig / fünfzig.
+
+###  Familie {-}
+
+das Baby, -s
+
+die Ehefrau, -en
+
+der Ehemann, -männer
+
+der Ehepartner, -
+
+die Eltern (plural)
+
+die Familie, -n
+
+die Geschwister (plural)
+
+die Großmutter, -mütter
+
+der Großvater, -väter
+
+die Großeltern (plural)
+
+das Kind, -er
+
+die Mutter, Mütter
+
+die Oma, -s
+
+der Opa, -s
+
+der Sohn, Söhne
+
+die Tochter, Töchter
+
+der Vater, Väter
+
+der / die Verwandte, -n
+
+verheiratet
+
+ledig
+
+mein, sein, dein, ihr
+
+unser, euer, ihr
+
+Das ist meine Schwester.
+
+###  Termine und Verabredungen {-}
+
+die Besprechung, -en
+
+können
+
+müssen
+
+wollen
+
+morgens
+
+vormittags
+
+mittags
+
+nachmittags
+
+abends
+
+nachts
+
+Wann?
+
+am Montag
+
+um drei (Uhr)
+
+Wie lange?
+
+von Donnerstag bis Sonntag
+
+Haben Sie heute / morgen/ am ... einen Termin?
+
+Geht es am ... um ... Uhr?
+
+Können Sie am ... um ... ?
+
+Ja, da kann ich.
+
+Nein, da kann ich leider nicht.
+
+Auf Wiederhören.
+
+###  Andere wichtige Wörter und Wendungen {-}
+
+das Bild, -er
+
+die Homepage, -s
+
+der Hund, -e
+
+der Junge, -n
+
+das Mädchen, -
+
+das Motorrad, -räder
+
+die Party, -s
+
+der Urlaub, -e
+
+krank
+
+cool
+
+okay
+
+sehr nett
+
+Bitte entschuldigen Sie.
+
+Tut mir leid.
+
+Viele Grüße
