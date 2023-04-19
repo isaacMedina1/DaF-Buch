@@ -18,3 +18,7 @@ K5A1
 redemittel-4
 grammatik-4
 wortschatz-4
+K6A1
+redemittel-5
+grammatik-5
+wortschatz-5
