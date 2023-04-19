@@ -59,9 +59,20 @@ Der Tag / Das _war_ langweilig.
 Grammatik
 --
 
-### Lorem {-}
+### Datumsangaben: Wann? - Am ... {-}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+
+
+|                          |                             |                                   |                                      |                                    |
+|:-------------------------|:----------------------------|:----------------------------------|:-------------------------------------|:-----------------------------------|
+|<strong>ersten</strong>   |<strong>achten</strong>      |fünfzehn<strong>ten</strong>       |zweiundzwanzig<strong>sten</strong>   |neunundzwanzig<strong>sten</strong> |
+|zwei<strong>ten</strong>  |neun<strong>ten</strong>     |sechszehn<strong>ten</strong>      |dreiundzwanzig<strong>sten</strong>   |dreißig<strong>sten</strong>        |
+|<strong>dritten</strong>  |zehn<strong>ten</strong>     |siebzehn<strong>ten</strong>       |vierundzwanzig<strong>sten</strong>   |einunddreißig<strong>sten</strong>  |
+|vier<strong>ten</strong>  |elf<strong>ten</strong>      |achtzehn<strong>ten</strong>       |fünfundzwanzig<strong>sten</strong>   |                                    |
+|fünf<strong>ten</strong>  |zwölf<strong>ten</strong>    |neunzehn<strong>ten</strong>       |sechsundzwanzig<strong>sten</strong>  |                                    |
+|sechs<strong>ten</strong> |dreizehn<strong>ten</strong> |zwanzig<strong>sten</strong>       |siebenundzwanzig<strong>sten</strong> |                                    |
+|<strong>siebten</strong>  |vierzehn<strong>ten</strong> |einundzwanzig<strong>sten</strong> |achtundzwanzig<strong>sten</strong>   |                                    |
 
 ---
 

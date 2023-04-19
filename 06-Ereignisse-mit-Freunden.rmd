@@ -59,9 +59,48 @@ Der Tag / Das _war_ langweilig.
 Grammatik
 --
 
-### Lorem {-}
+### Datumsangaben: Wann? - Am ... {-}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+```{r, include=FALSE}
+w1<-c("<strong>ersten</strong>",
+      "zwei<strong>ten</strong>",
+      "<strong>dritten</strong>",
+      "vier<strong>ten</strong>",
+      "fünf<strong>ten</strong>",
+      "sechs<strong>ten</strong>",
+      "<strong>siebten</strong>")
+w2<-c("<strong>achten</strong>",
+      "neun<strong>ten</strong>",
+      "zehn<strong>ten</strong>",
+      "elf<strong>ten</strong>",
+      "zwölf<strong>ten</strong>",
+      "dreizehn<strong>ten</strong>",
+      "vierzehn<strong>ten</strong>")
+w3<-c("fünfzehn<strong>ten</strong>",
+      "sechszehn<strong>ten</strong>",
+      "siebzehn<strong>ten</strong>",
+      "achtzehn<strong>ten</strong>",
+      "neunzehn<strong>ten</strong>",
+      "zwanzig<strong>sten</strong>",
+      "einundzwanzig<strong>sten</strong>")
+w4<-c("zweiundzwanzig<strong>sten</strong>",
+      "dreiundzwanzig<strong>sten</strong>",
+      "vierundzwanzig<strong>sten</strong>",
+      "fünfundzwanzig<strong>sten</strong>",
+      "sechsundzwanzig<strong>sten</strong>",
+      "siebenundzwanzig<strong>sten</strong>",
+      "achtundzwanzig<strong>sten</strong>")
+w5<-c("neunundzwanzig<strong>sten</strong>",
+      "dreißig<strong>sten</strong>",
+      "einunddreißig<strong>sten</strong>",
+      "","","","")
+Tabelle10<-data.frame(w1, w2, w3, w4, w5)
+Tabelle10
+```
+
+```{r, echo=FALSE}
+knitr::kable(Tabelle10, col.name = c("", "", "", "", ""))
+```
 
 ---
 
