@@ -102,6 +102,99 @@ Tabelle10
 knitr::kable(Tabelle10, col.name = c("", "", "", "", ""))
 ```
 
+### Verben mit trennbaren Vorsilben {-}
+
+```{r, include=FALSE}
+verben<-c("<strong>an</strong>rufen",
+      "<strong>weg</strong>fahren",
+      "<strong>nach</strong>schauen",
+      "<strong>mit</strong>kommen",
+      "<strong>aus</strong>schneiden",
+      "<strong>ab</strong>holen",
+      "<strong>ein</strong>laden")
+p1<-c("Ich",
+      "Morgen",
+      "Er",
+      "Leider",
+      "Ihr",
+      "Um 8.30 Uhr",
+      "Sie")
+p2<-c("rufe",
+      "fährst",
+      "schaut",
+      "kommen",
+      "schneidet",
+      "holen",
+      "laden")
+KML<-c("dich",
+      "du",
+      "im Internet",
+      "wir nicht",
+      "Anzeigen",
+      "sie Oliver",
+      "die Freunde")
+satzende<-c("an.",
+      "weg.",
+      "nach.",
+      "mit.",
+      "aus.",
+      "ab.",
+      "ein.")
+Tabelle11<-data.frame(verben, p1, p2, KML, satzende)
+Tabelle11
+```
+
+```{r, echo=FALSE}
+knitr::kable(Tabelle11, col.name = c("", "", "Position 2", "", "Satzende"))
+```
+
+### Verben mit trennbaren Vorsilben und Modalverben {-}
+
+```{r, include=FALSE}
+p1<-c("Markus",
+      "Du",
+      "Am Samstag")
+p2<-c("will",
+      "musst",
+      "können")
+KML<-c("ganz schnell",
+      "Möbel",
+      "Sie das Zimmer")
+satzende<-c("ausziehen.",
+      "mitbringen.",
+      "anschauen.")
+Tabelle12<-data.frame(p1, p2, KML, satzende)
+Tabelle12
+```
+
+```{r, echo=FALSE}
+knitr::kable(Tabelle12, col.name = c("", "Position 2", "", "Satzende"))
+```
+
+### Präteritum: _haben_ und _sein_ {-}
+
+```{r, include=FALSE}
+pronomen<-c("ich", "du", "er/sie/es", "wir", "ihr", "sie/Sie")
+haben<-c("hatt<strong>e</strong>",
+      "hatt<strong>est</strong>",
+      "hatt<strong>e</strong>",
+      "hatt<strong>en</strong>",
+      "hatt<strong>et</strong>",
+      "hatt<strong>en</strong>")
+sein<-c("war",
+      "war<strong>st</strong>",
+      "war",
+      "war<strong>en</strong>",
+      "war<strong>t</strong>",
+      "war<strong>en</strong>")
+Tabelle13<-data.frame(pronomen, haben, sein)
+Tabelle13
+```
+
+```{r, echo=FALSE}
+knitr::kable(Tabelle13, col.name = c("", "haben", "sein"))
+```
+
 ---
 
 Wortschatz

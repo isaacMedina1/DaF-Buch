@@ -74,6 +74,46 @@ Grammatik
 |sechs<strong>ten</strong> |dreizehn<strong>ten</strong> |zwanzig<strong>sten</strong>       |siebenundzwanzig<strong>sten</strong> |                                    |
 |<strong>siebten</strong>  |vierzehn<strong>ten</strong> |einundzwanzig<strong>sten</strong> |achtundzwanzig<strong>sten</strong>   |                                    |
 
+### Verben mit trennbaren Vorsilben {-}
+
+
+
+
+|                              |            |Position 2 |            |Satzende |
+|:-----------------------------|:-----------|:----------|:-----------|:--------|
+|<strong>an</strong>rufen      |Ich         |rufe       |dich        |an.      |
+|<strong>weg</strong>fahren    |Morgen      |fährst     |du          |weg.     |
+|<strong>nach</strong>schauen  |Er          |schaut     |im Internet |nach.    |
+|<strong>mit</strong>kommen    |Leider      |kommen     |wir nicht   |mit.     |
+|<strong>aus</strong>schneiden |Ihr         |schneidet  |Anzeigen    |aus.     |
+|<strong>ab</strong>holen      |Um 8.30 Uhr |holen      |sie Oliver  |ab.      |
+|<strong>ein</strong>laden     |Sie         |laden      |die Freunde |ein.     |
+
+### Verben mit trennbaren Vorsilben und Modalverben {-}
+
+
+
+
+|           |Position 2 |               |Satzende    |
+|:----------|:----------|:--------------|:-----------|
+|Markus     |will       |ganz schnell   |ausziehen.  |
+|Du         |musst      |Möbel          |mitbringen. |
+|Am Samstag |können     |Sie das Zimmer |anschauen.  |
+
+### Präteritum: _haben_ und _sein_ {-}
+
+
+
+
+|          |haben                    |sein                   |
+|:---------|:------------------------|:----------------------|
+|ich       |hatt<strong>e</strong>   |war                    |
+|du        |hatt<strong>est</strong> |war<strong>st</strong> |
+|er/sie/es |hatt<strong>e</strong>   |war                    |
+|wir       |hatt<strong>en</strong>  |war<strong>en</strong> |
+|ihr       |hatt<strong>et</strong>  |war<strong>t</strong>  |
+|sie/Sie   |hatt<strong>en</strong>  |war<strong>en</strong> |
+
 ---
 
 Wortschatz
