@@ -195,6 +195,21 @@ Tabelle13
 knitr::kable(Tabelle13, col.name = c("", "haben", "sein"))
 ```
 
+### Personalpronomen im Akkusativ {-}
+
+- ich -> **mich**
+ - du -> **dich**
+- er -> **ihn**
+- sie -> **es**
+- wir -> **sie**
+- ihr -> **uns**
+- sie -> **euch**
+- Sie -> **sie/Sie**
+
+### Präposition _für_ + Akkusativ {-}
+
+**Für** _wen_ ist das Wasser? -> Das wasser ist **für** _ihn / den_ Hund.
+
 ---
 
 Wortschatz

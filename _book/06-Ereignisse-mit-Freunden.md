@@ -114,6 +114,21 @@ Grammatik
 |ihr       |hatt<strong>et</strong>  |war<strong>t</strong>  |
 |sie/Sie   |hatt<strong>en</strong>  |war<strong>en</strong> |
 
+### Personalpronomen im Akkusativ {-}
+
+- ich -> **mich**
+ - du -> **dich**
+- er -> **ihn**
+- sie -> **es**
+- wir -> **sie**
+- ihr -> **uns**
+- sie -> **euch**
+- Sie -> **sie/Sie**
+
+### Präposition _für_ + Akkusativ {-}
+
+**Für** _wen_ ist das Wasser? -> Das wasser ist **für** _ihn / den_ Hund.
+
 ---
 
 Wortschatz
