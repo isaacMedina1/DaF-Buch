@@ -17,3 +17,8 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+::selection{
+  color: #FAFAFA;
+  background-color: #0E1316;
+}
